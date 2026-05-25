@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Modern Personal Portfolio Website
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# portfolio
+>>>>>>> d51a2c70472af587058e90fcf2131b5a11354c27
